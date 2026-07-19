@@ -1,0 +1,7 @@
+name = "rich-markdown-bot-admin"
+main = "src/index.js"
+compatibility_date = "2026-07-19"
+
+[[kv_namespaces]]
+binding = "BOT_DB"
+id = "REPLACE_WITH_YOUR_KV_NAMESPACE_ID"
