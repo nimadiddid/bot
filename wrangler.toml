@@ -1,4 +1,4 @@
-name = "rich-markdown-bot-admin"
+name = "bot"
 main = "src/index.js"
 compatibility_date = "2026-07-19"
 
