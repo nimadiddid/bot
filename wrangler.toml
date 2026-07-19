@@ -4,4 +4,4 @@ compatibility_date = "2026-07-19"
 
 [[kv_namespaces]]
 binding = "BOT_DB"
-id = "REPLACE_WITH_YOUR_KV_NAMESPACE_ID"
+id = "83eaffbc4b35438aa8c25023eaeaa29c"
